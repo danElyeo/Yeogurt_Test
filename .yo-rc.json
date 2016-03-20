@@ -1,0 +1,12 @@
+{
+  "generator-yeogurt": {
+    "config": {
+      "projectName": "yeogurt_test",
+      "htmlOption": "jade",
+      "jsPreprocessor": "none",
+      "cssOption": "less",
+      "testFramework": "jasmine"
+    },
+    "version": "1.5.2"
+  }
+}
